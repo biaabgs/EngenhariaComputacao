@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="aula01 1008 - Algoritmos Somar Numeros"/>
+        <attribute name="authors" value="082260006"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-08-10 08:50:13 "/>
+        <attribute name="created" value="MDgyMjYwMDA2O0NFLUxBQjY5MDU7MjAyNi0wOC0xMDsiMDg6MzY6MzQgIjsyMjU0"/>
+        <attribute name="edited" value="MDgyMjYwMDA2O0NFLUxBQjY5MDU7MjAyNi0wOC0xMDsiMDg6NTA6MTMgIjsxOzIzNTU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="num1, num2, R" type="Integer" array="False" size=""/>
+            <input variable="num1"/>
+            <input variable="num2"/>
+            <assign variable="R" expression="num1 + num2"/>
+            <output expression="R" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
