@@ -1,0 +1,15 @@
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\bin\Debug\net8.0\aula_3108_desvio_composto.exe
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\bin\Debug\net8.0\aula_3108_desvio_composto.deps.json
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\bin\Debug\net8.0\aula_3108_desvio_composto.runtimeconfig.json
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\bin\Debug\net8.0\aula_3108_desvio_composto.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\bin\Debug\net8.0\aula_3108_desvio_composto.pdb
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\aula_3108_desvio_composto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\aula_3108_desvio_composto.AssemblyInfoInputs.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\aula_3108_desvio_composto.AssemblyInfo.cs
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\aula_3108_desvio_composto.csproj.CoreCompileInputs.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\aula_3108_desvio_composto.sourcelink.json
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\aula_3108_desvio_composto.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\refint\aula_3108_desvio_composto.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\aula_3108_desvio_composto.pdb
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\aula_3108_desvio_composto.genruntimeconfig.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\aula_3108_desvio_composto\obj\Debug\net8.0\ref\aula_3108_desvio_composto.dll

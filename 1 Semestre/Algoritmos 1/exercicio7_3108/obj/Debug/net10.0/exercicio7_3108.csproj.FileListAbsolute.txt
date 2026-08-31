@@ -1,0 +1,15 @@
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\bin\Debug\net10.0\exercicio7_3108.exe
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\bin\Debug\net10.0\exercicio7_3108.deps.json
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\bin\Debug\net10.0\exercicio7_3108.runtimeconfig.json
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\bin\Debug\net10.0\exercicio7_3108.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\bin\Debug\net10.0\exercicio7_3108.pdb
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\exercicio7_3108.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\exercicio7_3108.AssemblyInfoInputs.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\exercicio7_3108.AssemblyInfo.cs
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\exercicio7_3108.csproj.CoreCompileInputs.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\exercicio7_3108.sourcelink.json
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\exercicio7_3108.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\refint\exercicio7_3108.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\exercicio7_3108.pdb
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\exercicio7_3108.genruntimeconfig.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio7_3108\obj\Debug\net10.0\ref\exercicio7_3108.dll

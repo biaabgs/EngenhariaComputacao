@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aula_3108_desvio_composto/1.0.0": {
+        "runtime": {
+          "aula_3108_desvio_composto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula_3108_desvio_composto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\082260006\\Documents\\EngenhariaComputacao\\1 Semestre\\Algoritmos 1\\aula_3108_desvio_composto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34F7B40-943C-F021-7CD1-EFD8DD6DA05E}|aula_3108_desvio_composto.csproj|c:\\users\\082260006\\documents\\engenhariacomputacao\\1 semestre\\algoritmos 1\\aula_3108_desvio_composto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F7B40-943C-F021-7CD1-EFD8DD6DA05E}|aula_3108_desvio_composto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\082260006\\Documents\\EngenhariaComputacao\\1 Semestre\\Algoritmos 1\\aula_3108_desvio_composto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\082260006\\Documents\\EngenhariaComputacao\\1 Semestre\\Algoritmos 1\\aula_3108_desvio_composto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T22:35:54.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
