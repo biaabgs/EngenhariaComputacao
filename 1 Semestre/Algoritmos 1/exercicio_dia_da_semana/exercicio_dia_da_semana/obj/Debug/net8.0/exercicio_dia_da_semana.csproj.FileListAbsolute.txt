@@ -1,0 +1,15 @@
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\bin\Debug\net8.0\exercicio_dia_da_semana.exe
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\bin\Debug\net8.0\exercicio_dia_da_semana.deps.json
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\bin\Debug\net8.0\exercicio_dia_da_semana.runtimeconfig.json
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\bin\Debug\net8.0\exercicio_dia_da_semana.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\bin\Debug\net8.0\exercicio_dia_da_semana.pdb
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\exercicio_dia_da_semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\exercicio_dia_da_semana.AssemblyInfoInputs.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\exercicio_dia_da_semana.AssemblyInfo.cs
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\exercicio_dia_da_semana.csproj.CoreCompileInputs.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\exercicio_dia_da_semana.sourcelink.json
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\exercicio_dia_da_semana.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\refint\exercicio_dia_da_semana.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\exercicio_dia_da_semana.pdb
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\exercicio_dia_da_semana.genruntimeconfig.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_dia_da_semana\exercicio_dia_da_semana\obj\Debug\net8.0\ref\exercicio_dia_da_semana.dll
