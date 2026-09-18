@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Professores\\Prof. Viotti\\EC1\\EX_17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5640B023-164E-4016-9E70-71F5BF4BEDB4}|EX_17\\EX_17.csproj|w:\\professores\\prof. viotti\\ec1\\ex_17\\ex_17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5640B023-164E-4016-9E70-71F5BF4BEDB4}|EX_17\\EX_17.csproj|solutionrelative:ex_17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\Professores\\Prof. Viotti\\EC1\\EX_17\\EX_17\\Program.cs",
+              "RelativeDocumentMoniker": "EX_17\\Program.cs",
+              "ToolTip": "W:\\Professores\\Prof. Viotti\\EC1\\EX_17\\EX_17\\Program.cs",
+              "RelativeToolTip": "EX_17\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwDIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T23:10:27.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

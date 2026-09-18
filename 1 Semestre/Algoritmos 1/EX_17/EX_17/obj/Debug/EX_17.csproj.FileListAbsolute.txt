@@ -1,0 +1,15 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_17\EX_17\bin\Debug\EX_17.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_17\EX_17\bin\Debug\EX_17.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_17\EX_17\bin\Debug\EX_17.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_17\EX_17\obj\Debug\EX_17.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_17\EX_17\obj\Debug\EX_17.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_17\EX_17\obj\Debug\EX_17.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_17\EX_17\bin\Debug\EX_17.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_17\EX_17\obj\Debug\EX_17.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_17\EX_17\obj\Debug\EX_17.pdb
+W:\Professores\Prof. Viotti\EC1\Projetos de Aula\EX_17\EX_17\bin\Debug\EX_17.exe.config
+W:\Professores\Prof. Viotti\EC1\Projetos de Aula\EX_17\EX_17\bin\Debug\EX_17.exe
+W:\Professores\Prof. Viotti\EC1\Projetos de Aula\EX_17\EX_17\bin\Debug\EX_17.pdb
+W:\Professores\Prof. Viotti\EC1\Projetos de Aula\EX_17\EX_17\obj\Debug\EX_17.csprojAssemblyReference.cache
+W:\Professores\Prof. Viotti\EC1\Projetos de Aula\EX_17\EX_17\obj\Debug\EX_17.exe
+W:\Professores\Prof. Viotti\EC1\Projetos de Aula\EX_17\EX_17\obj\Debug\EX_17.pdb
