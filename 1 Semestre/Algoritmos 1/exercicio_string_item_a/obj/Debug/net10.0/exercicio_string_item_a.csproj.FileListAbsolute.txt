@@ -1,0 +1,16 @@
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\bin\Debug\net10.0\exercicio_string_item_a.exe
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\bin\Debug\net10.0\exercicio_string_item_a.deps.json
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\bin\Debug\net10.0\exercicio_string_item_a.runtimeconfig.json
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\bin\Debug\net10.0\exercicio_string_item_a.dll
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\bin\Debug\net10.0\exercicio_string_item_a.pdb
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\exercicio_string_item_a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\exercicio_string_item_a.AssemblyInfoInputs.cache
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\exercicio_string_item_a.AssemblyInfo.cs
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\exercicio_string_item_a.csproj.CoreCompileInputs.cache
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\exercicio_string_item_a.sourcelink.json
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\exercicio_string_item_a.dll
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\refint\exercicio_string_item_a.dll
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\exercicio_string_item_a.pdb
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\exercicio_string_item_a.genruntimeconfig.cache
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\ref\exercicio_string_item_a.dll
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio_string_item_a\obj\Debug\net10.0\exercici.3289DE98.Up2Date
