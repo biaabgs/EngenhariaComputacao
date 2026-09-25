@@ -1,0 +1,13 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_30\EX_30\bin\Debug\EX_30.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_30\EX_30\bin\Debug\EX_30.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_30\EX_30\bin\Debug\EX_30.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_30\EX_30\obj\Debug\EX_30.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_30\EX_30\obj\Debug\EX_30.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_30\EX_30\obj\Debug\EX_30.pdb
+X:\Professores\Prof. Viotti\EC1\Soluções\EX_30\EX_30\bin\Debug\EX_30.exe.config
+X:\Professores\Prof. Viotti\EC1\Soluções\EX_30\EX_30\bin\Debug\EX_30.exe
+X:\Professores\Prof. Viotti\EC1\Soluções\EX_30\EX_30\bin\Debug\EX_30.pdb
+X:\Professores\Prof. Viotti\EC1\Soluções\EX_30\EX_30\obj\Debug\EX_30.csproj.AssemblyReference.cache
+X:\Professores\Prof. Viotti\EC1\Soluções\EX_30\EX_30\obj\Debug\EX_30.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Viotti\EC1\Soluções\EX_30\EX_30\obj\Debug\EX_30.exe
+X:\Professores\Prof. Viotti\EC1\Soluções\EX_30\EX_30\obj\Debug\EX_30.pdb

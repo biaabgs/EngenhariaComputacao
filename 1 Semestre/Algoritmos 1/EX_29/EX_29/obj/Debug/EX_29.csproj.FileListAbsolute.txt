@@ -1,0 +1,7 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_29\EX_29\bin\Debug\EX_29.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_29\EX_29\bin\Debug\EX_29.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_29\EX_29\bin\Debug\EX_29.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_29\EX_29\bin\Debug\EX_29.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_29\EX_29\obj\Debug\EX_29.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_29\EX_29\obj\Debug\EX_29.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-1 - Algoritmos I\Soluções\EX_29\EX_29\obj\Debug\EX_29.pdb
