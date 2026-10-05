@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula_0510_Laco_WHILE_Validacao/1.0.0": {
+        "runtime": {
+          "Aula_0510_Laco_WHILE_Validacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_0510_Laco_WHILE_Validacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

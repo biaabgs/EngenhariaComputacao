@@ -1,0 +1,14 @@
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\bin\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.exe
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\bin\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.deps.json
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\bin\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.runtimeconfig.json
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\bin\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.dll
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\bin\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.pdb
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\obj\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.GeneratedMSBuildEditorConfig.editorconfig
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\obj\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.AssemblyInfoInputs.cache
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\obj\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.AssemblyInfo.cs
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\obj\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\obj\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.dll
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\obj\Debug\net8.0\refint\Aula_0510_Laco_WHILE_Validacao.dll
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\obj\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.pdb
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\obj\Debug\net8.0\Aula_0510_Laco_WHILE_Validacao.genruntimeconfig.cache
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE_Validacao\obj\Debug\net8.0\ref\Aula_0510_Laco_WHILE_Validacao.dll

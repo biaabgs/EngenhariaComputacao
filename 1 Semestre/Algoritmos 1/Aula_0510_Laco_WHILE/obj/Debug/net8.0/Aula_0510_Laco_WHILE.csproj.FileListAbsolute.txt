@@ -1,0 +1,14 @@
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\bin\Debug\net8.0\Aula_0510_Laco_WHILE.exe
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\bin\Debug\net8.0\Aula_0510_Laco_WHILE.deps.json
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\bin\Debug\net8.0\Aula_0510_Laco_WHILE.runtimeconfig.json
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\bin\Debug\net8.0\Aula_0510_Laco_WHILE.dll
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\bin\Debug\net8.0\Aula_0510_Laco_WHILE.pdb
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\obj\Debug\net8.0\Aula_0510_Laco_WHILE.GeneratedMSBuildEditorConfig.editorconfig
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\obj\Debug\net8.0\Aula_0510_Laco_WHILE.AssemblyInfoInputs.cache
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\obj\Debug\net8.0\Aula_0510_Laco_WHILE.AssemblyInfo.cs
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\obj\Debug\net8.0\Aula_0510_Laco_WHILE.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\obj\Debug\net8.0\Aula_0510_Laco_WHILE.dll
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\obj\Debug\net8.0\refint\Aula_0510_Laco_WHILE.dll
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\obj\Debug\net8.0\Aula_0510_Laco_WHILE.pdb
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\obj\Debug\net8.0\Aula_0510_Laco_WHILE.genruntimeconfig.cache
+W:\Professores\Prof. Viotti\EC1\Aula_0510_Laco_WHILE\obj\Debug\net8.0\ref\Aula_0510_Laco_WHILE.dll

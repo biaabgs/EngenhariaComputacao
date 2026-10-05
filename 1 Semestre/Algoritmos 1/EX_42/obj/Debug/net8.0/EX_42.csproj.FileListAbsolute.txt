@@ -1,0 +1,14 @@
+W:\Professores\Prof. Viotti\EC1\EX_42\bin\Debug\net8.0\EX_42.exe
+W:\Professores\Prof. Viotti\EC1\EX_42\bin\Debug\net8.0\EX_42.deps.json
+W:\Professores\Prof. Viotti\EC1\EX_42\bin\Debug\net8.0\EX_42.runtimeconfig.json
+W:\Professores\Prof. Viotti\EC1\EX_42\bin\Debug\net8.0\EX_42.dll
+W:\Professores\Prof. Viotti\EC1\EX_42\bin\Debug\net8.0\EX_42.pdb
+W:\Professores\Prof. Viotti\EC1\EX_42\obj\Debug\net8.0\EX_42.GeneratedMSBuildEditorConfig.editorconfig
+W:\Professores\Prof. Viotti\EC1\EX_42\obj\Debug\net8.0\EX_42.AssemblyInfoInputs.cache
+W:\Professores\Prof. Viotti\EC1\EX_42\obj\Debug\net8.0\EX_42.AssemblyInfo.cs
+W:\Professores\Prof. Viotti\EC1\EX_42\obj\Debug\net8.0\EX_42.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Viotti\EC1\EX_42\obj\Debug\net8.0\EX_42.dll
+W:\Professores\Prof. Viotti\EC1\EX_42\obj\Debug\net8.0\refint\EX_42.dll
+W:\Professores\Prof. Viotti\EC1\EX_42\obj\Debug\net8.0\EX_42.pdb
+W:\Professores\Prof. Viotti\EC1\EX_42\obj\Debug\net8.0\EX_42.genruntimeconfig.cache
+W:\Professores\Prof. Viotti\EC1\EX_42\obj\Debug\net8.0\ref\EX_42.dll
