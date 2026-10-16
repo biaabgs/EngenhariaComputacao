@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\082260006\\Documents\\biaabgs\\EngenhariaComputacao\\1 Semestre\\Algoritmos 1\\aula_1610_laco_infinito_break\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC58736-B31B-4DDC-8D06-DB8BA5F10FB9}|aula_1610_laco_infinito_break.csproj|c:\\users\\082260006\\documents\\biaabgs\\engenhariacomputacao\\1 semestre\\algoritmos 1\\aula_1610_laco_infinito_break\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC58736-B31B-4DDC-8D06-DB8BA5F10FB9}|aula_1610_laco_infinito_break.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\082260006\\Documents\\biaabgs\\EngenhariaComputacao\\1 Semestre\\Algoritmos 1\\aula_1610_laco_infinito_break\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\082260006\\Documents\\biaabgs\\EngenhariaComputacao\\1 Semestre\\Algoritmos 1\\aula_1610_laco_infinito_break\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:33:20.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

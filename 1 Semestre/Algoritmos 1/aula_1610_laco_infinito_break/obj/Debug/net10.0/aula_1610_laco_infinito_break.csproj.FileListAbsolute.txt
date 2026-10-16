@@ -1,0 +1,16 @@
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\bin\Debug\net10.0\aula_1610_laco_infinito_break.exe
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\bin\Debug\net10.0\aula_1610_laco_infinito_break.deps.json
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\bin\Debug\net10.0\aula_1610_laco_infinito_break.runtimeconfig.json
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\bin\Debug\net10.0\aula_1610_laco_infinito_break.dll
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\bin\Debug\net10.0\aula_1610_laco_infinito_break.pdb
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\aula_1610_laco_infinito_break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\aula_1610_laco_infinito_break.AssemblyInfoInputs.cache
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\aula_1610_laco_infinito_break.AssemblyInfo.cs
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\aula_1610_laco_infinito_break.csproj.CoreCompileInputs.cache
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\aula_1610_laco_infinito_break.sourcelink.json
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\aula_1610_laco_infinito_break.dll
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\refint\aula_1610_laco_infinito_break.dll
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\aula_1610_laco_infinito_break.pdb
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\aula_1610_laco_infinito_break.genruntimeconfig.cache
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\ref\aula_1610_laco_infinito_break.dll
+C:\Users\082260006\Documents\biaabgs\EngenhariaComputacao\1 Semestre\Algoritmos 1\aula_1610_laco_infinito_break\obj\Debug\net10.0\aula_161.254CA236.Up2Date
