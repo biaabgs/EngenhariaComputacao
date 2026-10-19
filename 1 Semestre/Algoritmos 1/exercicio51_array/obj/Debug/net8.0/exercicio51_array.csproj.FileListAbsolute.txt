@@ -1,0 +1,15 @@
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\bin\Debug\net8.0\exercicio51_array.exe
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\bin\Debug\net8.0\exercicio51_array.deps.json
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\bin\Debug\net8.0\exercicio51_array.runtimeconfig.json
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\bin\Debug\net8.0\exercicio51_array.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\bin\Debug\net8.0\exercicio51_array.pdb
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\exercicio51_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\exercicio51_array.AssemblyInfoInputs.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\exercicio51_array.AssemblyInfo.cs
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\exercicio51_array.csproj.CoreCompileInputs.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\exercicio51_array.sourcelink.json
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\exercicio51_array.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\refint\exercicio51_array.dll
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\exercicio51_array.pdb
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\exercicio51_array.genruntimeconfig.cache
+C:\Users\082260006\Documents\EngenhariaComputacao\1 Semestre\Algoritmos 1\exercicio51_array\obj\Debug\net8.0\ref\exercicio51_array.dll
